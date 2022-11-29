@@ -24,7 +24,7 @@ body {
     color: #d9dcd6;
 }
 
-.header nav {
+.header section {
     padding-top: 15px;
     margin-right: 20px;
     float: right;
@@ -32,11 +32,11 @@ body {
     font-size: 20px;
 }
 
-.header nav ul {
+.header section ul {
     list-style-type: none;
 }
 
-.header nav ul li {
+.header section ul li {
     display: inline-block;
     margin-left: 25px;
 }
@@ -101,16 +101,8 @@ p {
     color: #ffffff;
 }
 
-.benefit-lead h3 {
-    margin-bottom: 10px;
-    text-align: center;
-}
-
-.benefit-brand h3 {
-    margin-bottom: 10px;
-    text-align: center;
-}
-
+.benefit-lead h3
+.benefit-brand h3
 .benefit-cost h3 {
     margin-bottom: 10px;
     text-align: center;
@@ -188,13 +180,10 @@ p {
     font-size: 36px;
 }
 
-.footer {
+footer {
+    font-size: 20px;
     padding: 30px;
     clear: both;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     text-align: center;
-}
-
-.footer h2 {
-    font-size: 20px;
 }
