@@ -38,7 +38,7 @@ There are no requirements needed to load this application other than opening it 
 ## Usage
 This one-page website does not have much functionality. It is limited to the screenshot image below.
 
-[One page website](/challenge/starter/assets/images/01-html-css-git-challenge-demo.png)
+[One page website](assets/images/01-html-css-git-challenge-demo.png)
 
 ## Credits
 Creator: https://courses.bootcampspot.com
