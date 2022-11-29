@@ -4,7 +4,7 @@ Last updated on: 29th Nov 2022
 Last updated by: Shohidul Shah Hoque
 __________
 
-# Title: Codebase refactored to meet accessibility standards so that it's optimized for search engines
+# Codebase refactored to meet accessibility standards so that it's optimized for search engines
 
 ## Description
 The original codebase was downloaded from https://courses.bootcampspot.com
